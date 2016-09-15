@@ -1,0 +1,13 @@
+mkdir $1
+cd $1
+touch index.html
+touch README.md
+mkdir css
+cd css
+touch style.css
+cd ..
+mkdir js
+cd js
+touch app.js
+cd ..
+mkdir images
